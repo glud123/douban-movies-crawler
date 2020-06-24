@@ -1,0 +1,16 @@
+{
+  "name": "douban-movies-crawler",
+  "version": "1.0.0",
+  "description": "douban-movies-crawler",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "glud123",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.9",
+    "puppeteer": "^4.0.0"
+  }
+}
